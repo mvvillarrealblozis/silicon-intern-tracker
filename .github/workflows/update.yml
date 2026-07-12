@@ -2,11 +2,11 @@ name: Sync internship data
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours (UTC)
-  workflow_dispatch:          # lets you run it manually from the Actions tab
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 permissions:
-  contents: write             # needed to commit data.json back to the repo
+  contents: write
 
 concurrency:
   group: sync
@@ -17,22 +17,25 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-
       - name: Aggregate + filter listings
         run: python3 .github/scripts/aggregate.py
-
-      - name: Commit if data changed
+      - name: Commit on role change, else heartbeat
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if [ -n "$(git status --porcelain data.json)" ]; then
             git add data.json
-            git commit -m "data: sync $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "data: roles updated $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
           else
-            echo "No change in data.json — nothing to commit."
+            last=$(git log -1 --format=%ct)
+            now=$(date +%s)
+            age_days=$(( (now - last) / 86400 ))
+            if [ "$age_days" -ge 50 ]; then
+              git commit --allow-empty -m "chore: keepalive"
+              git push
+            fi
           fi
