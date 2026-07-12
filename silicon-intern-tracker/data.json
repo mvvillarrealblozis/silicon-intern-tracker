@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-07-12T19:16:29+00:00",
+  "seasons": [
+    "Summer"
+  ],
+  "counts": {
+    "total": 0,
+    "design": 0,
+    "verification": 0
+  },
+  "sources": [
+    {
+      "url": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/.github/scripts/listings.json",
+      "ok": true,
+      "count": 197
+    }
+  ],
+  "roles": []
+}
