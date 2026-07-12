@@ -205,7 +205,7 @@
         <div class="v" id="rd-total">—</div>
       </div>
       <div class="cell">
-        <div class="k">Last sync</div>
+        <div class="k">Updated</div>
         <div class="v sync" id="rd-sync"><span class="dot"></span><span id="rd-sync-t">—</span></div>
       </div>
     </div>
@@ -263,7 +263,7 @@
 <script>
 // Offline fallback = the real data.json committed to the repo. When deployed on
 // GitHub Pages, fetch('./data.json') returns the live file and overrides this.
-const FALLBACK = {"generated_at":"2026-07-12T19:16:29+00:00","seasons":["Summer"],"counts":{"total":0,"design":0,"verification":0},"roles":[]};
+const FALLBACK = {"updated_at":"2026-07-12T19:36:03+00:00","seasons":["Summer"],"counts":{"total":0,"design":0,"verification":0},"roles":[]};
 
 const DAY = 86400, FRESH = 7 * DAY;
 let DATA = FALLBACK;
@@ -360,7 +360,7 @@ function emptyEl(lane){
 function render(){
   const total = DATA.roles.length;
   $("#rd-total").textContent = total;
-  $("#rd-sync-t").textContent = syncLabel(DATA.generated_at);
+  $("#rd-sync-t").textContent = syncLabel(DATA.updated_at);
 
   for(const lane of ["design","verification"]){
     const list = $("#list-"+lane);
