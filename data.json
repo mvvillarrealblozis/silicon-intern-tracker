@@ -1,6 +1,49 @@
 {
-  "updated_at": "2026-07-12T19:36:03+00:00",
-  "seasons": ["Summer"],
-  "counts": { "total": 0, "design": 0, "verification": 0 },
-  "roles": []
+  "updated_at": "2026-07-24T08:36:21+00:00",
+  "seasons": [
+    "Summer"
+  ],
+  "counts": {
+    "total": 2,
+    "design": 2,
+    "verification": 0
+  },
+  "roles": [
+    {
+      "id": "c6e7a7e2-7ba2-4e42-b50c-2b0b80496640",
+      "company": "Jane Street",
+      "title": "Hardware Engineer (FPGA/ASIC) Intern",
+      "url": "https://www.janestreet.com/join-jane-street/position/8624440002/",
+      "locations": [
+        "New York, NY"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1784881826,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "asic",
+        "fpga",
+        "hardware engineer"
+      ]
+    },
+    {
+      "id": "fa59ddd3-89e0-4cf9-92cb-d81845723939",
+      "company": "Akuna Capital",
+      "title": "Hardware Engineer Intern",
+      "url": "https://akunacapital.com/careers/job/8018880/?gh_jid=8018880",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "season": "Summer",
+      "sponsorship": "U.S. Citizenship is Required",
+      "posted": 1784878920,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "hardware engineer"
+      ]
+    }
+  ]
 }
