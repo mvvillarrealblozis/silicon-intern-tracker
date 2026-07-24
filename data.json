@@ -1,14 +1,31 @@
 {
-  "updated_at": "2026-07-24T08:36:21+00:00",
+  "updated_at": "2026-07-24T14:00:16+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 2,
-    "design": 2,
+    "total": 3,
+    "design": 3,
     "verification": 0
   },
   "roles": [
+    {
+      "id": "f54eae4a-2d0d-4122-99d8-ed17feddf8c8",
+      "company": "IMC",
+      "title": "Hardware Engineer Intern",
+      "url": "https://www.imc.com/us/careers/jobs/4823945101",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "season": "Summer",
+      "sponsorship": "Offers Sponsorship",
+      "posted": 1784885006,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "hardware engineer"
+      ]
+    },
     {
       "id": "c6e7a7e2-7ba2-4e42-b50c-2b0b80496640",
       "company": "Jane Street",
