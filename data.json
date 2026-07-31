@@ -1,14 +1,31 @@
 {
-  "updated_at": "2026-07-24T14:00:16+00:00",
+  "updated_at": "2026-07-31T19:44:15+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 3,
-    "design": 3,
+    "total": 4,
+    "design": 4,
     "verification": 0
   },
   "roles": [
+    {
+      "id": "f09ce418-abc9-4aa1-aa21-9436909f9bc6",
+      "company": "DRW",
+      "title": "FPGA Intern",
+      "url": "https://www.drw.com/work-at-drw/listings/fpga-intern-3484423",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "season": "Summer",
+      "sponsorship": "Offers Sponsorship",
+      "posted": 1785516215,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "fpga"
+      ]
+    },
     {
       "id": "f54eae4a-2d0d-4122-99d8-ed17feddf8c8",
       "company": "IMC",
