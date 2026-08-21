@@ -1,14 +1,31 @@
 {
-  "updated_at": "2026-07-31T19:44:15+00:00",
+  "updated_at": "2026-08-21T18:46:24+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 4,
-    "design": 4,
+    "total": 5,
+    "design": 5,
     "verification": 0
   },
   "roles": [
+    {
+      "id": "6a6d4d9c-5866-4b37-984c-93f72b704f1d",
+      "company": "HPR",
+      "title": "FPGA Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003",
+      "locations": [
+        "Needham, MA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Does Not Offer Sponsorship",
+      "posted": 1787326616,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "fpga"
+      ]
+    },
     {
       "id": "f09ce418-abc9-4aa1-aa21-9436909f9bc6",
       "company": "DRW",
