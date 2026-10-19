@@ -1,14 +1,31 @@
 {
-  "updated_at": "2026-08-21T18:46:24+00:00",
+  "updated_at": "2026-10-19T04:16:18+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 5,
-    "design": 5,
+    "total": 6,
+    "design": 6,
     "verification": 0
   },
   "roles": [
+    {
+      "id": "4e4b84eb-8cd4-4a4c-b71f-e5b60e2e1936",
+      "company": "Apple",
+      "title": "SoC Machine Learning Software Engineer Intern",
+      "url": "https://jobs.apple.com/en-us/details/200689488",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1792114389,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "soc"
+      ]
+    },
     {
       "id": "6a6d4d9c-5866-4b37-984c-93f72b704f1d",
       "company": "HPR",
