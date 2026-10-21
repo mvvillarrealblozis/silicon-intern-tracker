@@ -1,14 +1,67 @@
 {
-  "updated_at": "2026-10-19T04:16:18+00:00",
+  "updated_at": "2026-10-21T04:19:06+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 6,
-    "design": 6,
-    "verification": 0
+    "total": 9,
+    "design": 8,
+    "verification": 1
   },
   "roles": [
+    {
+      "id": "30c9edfa-24b4-41e5-9cd5-53d07a2c39f6",
+      "company": "Keysight Technologies",
+      "title": "R&D Hardware Engineer Intern",
+      "url": "https://jobs.keysight.com/jobs/54804?icims=1",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1792448259,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "hardware engineer"
+      ]
+    },
+    {
+      "id": "a1edc3c4-0385-4950-a68a-672763661b2a",
+      "company": "Qualcomm",
+      "title": "QDSP Hardware Physical Design Intern",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721636316",
+      "locations": [
+        "Markham, ON, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1792447524,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "physical design"
+      ]
+    },
+    {
+      "id": "29c329c1-e3a2-499d-a622-9b1017a00282",
+      "company": "NVIDIA",
+      "title": "ASIC Verification Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1792368000,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "asic verification",
+        "verification",
+        "verification intern"
+      ]
+    },
     {
       "id": "4e4b84eb-8cd4-4a4c-b71f-e5b60e2e1936",
       "company": "Apple",
