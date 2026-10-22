@@ -1,14 +1,32 @@
 {
-  "updated_at": "2026-10-21T21:29:39+00:00",
+  "updated_at": "2026-10-22T04:18:39+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 11,
+    "total": 12,
     "design": 9,
-    "verification": 2
+    "verification": 3
   },
   "roles": [
+    {
+      "id": "9835db48-92e8-44b1-af8b-d324cf16e3bf",
+      "company": "Microchip Technology",
+      "title": "Engineering Intern, ASIC Verification",
+      "url": "https://microchiphr.wd5.myworkdayjobs.com/External/job/CA---San-Jose---3870-N-First-St/Intern---Engineering--ASIC-Verification-_R3851-26",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1792626262,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "asic verification",
+        "verification"
+      ]
+    },
     {
       "id": "e3b16f0e-a834-496f-8e97-52fca38397ea",
       "company": "Marvell",
