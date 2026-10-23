@@ -1,14 +1,49 @@
 {
-  "updated_at": "2026-10-23T16:52:06+00:00",
+  "updated_at": "2026-10-23T21:16:12+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 13,
-    "design": 10,
+    "total": 15,
+    "design": 12,
     "verification": 3
   },
   "roles": [
+    {
+      "id": "1b0bb86a-0e78-46e8-8d23-7c649143daa8",
+      "company": "Amazon",
+      "title": "ASIC Engineer Intern",
+      "url": "https://amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1792719939,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "asic"
+      ]
+    },
+    {
+      "id": "c9326723-b3d4-43cd-8fa9-beba737f442f",
+      "company": "Ambarella",
+      "title": "Physical Design Engineer Intern",
+      "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Physical-Design-Engineer-Intern_JR100393",
+      "locations": [
+        "United States"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1792627200,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "design engineer",
+        "physical design"
+      ]
+    },
     {
       "id": "9835db48-92e8-44b1-af8b-d324cf16e3bf",
       "company": "Microchip Technology",
