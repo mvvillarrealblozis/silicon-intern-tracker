@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-22T04:18:39+00:00",
+  "updated_at": "2026-10-23T16:52:06+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 12,
-    "design": 9,
+    "total": 13,
+    "design": 10,
     "verification": 3
   },
   "roles": [
@@ -61,6 +61,24 @@
       "keywords": [
         "design engineer",
         "fpga"
+      ]
+    },
+    {
+      "id": "b002f7f0-d82d-4dd8-b6d6-f28e938e3324",
+      "company": "SK Hynix Memory Solution",
+      "title": "ASIC Design Intern",
+      "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4460200009",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1792454400,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "asic",
+        "asic design"
       ]
     },
     {
