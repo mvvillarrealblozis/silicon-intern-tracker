@@ -1,14 +1,68 @@
 {
-  "updated_at": "2026-10-23T21:16:12+00:00",
+  "updated_at": "2026-10-24T10:42:22+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 15,
-    "design": 12,
-    "verification": 3
+    "total": 19,
+    "design": 14,
+    "verification": 5
   },
   "roles": [
+    {
+      "id": "b9d906d2-22f1-49a7-9621-57913a3c5f52",
+      "company": "Keysight Technologies",
+      "title": "FPGA Design Intern",
+      "url": "https://jobs.keysight.com/jobs/55151?icims=1",
+      "locations": [
+        "Calabasas, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1792782900,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "fpga"
+      ]
+    },
+    {
+      "id": "2159f079-5e4e-4ab1-aa65-6d49af0aff31",
+      "company": "Texas Instruments",
+      "title": "Digital Design Verification Engineering Intern",
+      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016380",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Does Not Offer Sponsorship",
+      "posted": 1792726089,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "design verification",
+        "verification"
+      ]
+    },
+    {
+      "id": "e011a5f5-5bce-4f9f-a198-3bc7c0ebe3b4",
+      "company": "Amazon",
+      "title": "ASIC Engineer Intern",
+      "url": "https://amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027",
+      "locations": [
+        "Seattle, WA",
+        "Austin, TX",
+        "Cupertino, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1792720306,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "asic"
+      ]
+    },
     {
       "id": "1b0bb86a-0e78-46e8-8d23-7c649143daa8",
       "company": "Amazon",
@@ -24,6 +78,25 @@
       "source": "community",
       "keywords": [
         "asic"
+      ]
+    },
+    {
+      "id": "49b4a066-840d-4414-9939-01b4c31f3b29",
+      "company": "GlobalFoundries",
+      "title": "CPU IP Design & Verification Intern, RISC-V Processor Development",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/CPU-IP-Design---Verification-Intern---RISC-V-Processor-Development--Summer-2027-_JR-2604042",
+      "locations": [
+        "Austin, TX",
+        "Santa Clara, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1792713600,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "verification",
+        "verification intern"
       ]
     },
     {
