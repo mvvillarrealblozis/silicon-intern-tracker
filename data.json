@@ -1,19 +1,36 @@
 {
-  "updated_at": "2026-10-24T10:42:22+00:00",
+  "updated_at": "2026-10-25T11:07:55+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 19,
-    "design": 14,
+    "total": 18,
+    "design": 13,
     "verification": 5
   },
   "roles": [
     {
+      "id": "0d53e571-a12a-43b0-a575-b956d62cfcb5",
+      "company": "Skydio",
+      "title": "Wireless Hardware Engineer Intern",
+      "url": "https://go.vansh.nyc/i",
+      "locations": [
+        "San Mateo, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1792915221,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "hardware engineer"
+      ]
+    },
+    {
       "id": "b9d906d2-22f1-49a7-9621-57913a3c5f52",
       "company": "Keysight Technologies",
       "title": "FPGA Design Intern",
-      "url": "https://jobs.keysight.com/jobs/55151?icims=1",
+      "url": "https://go.vansh.nyc/hE",
       "locations": [
         "Calabasas, CA"
       ],
@@ -30,7 +47,7 @@
       "id": "2159f079-5e4e-4ab1-aa65-6d49af0aff31",
       "company": "Texas Instruments",
       "title": "Digital Design Verification Engineering Intern",
-      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016380",
+      "url": "https://go.vansh.nyc/hS",
       "locations": [
         "Santa Clara, CA"
       ],
@@ -48,7 +65,7 @@
       "id": "e011a5f5-5bce-4f9f-a198-3bc7c0ebe3b4",
       "company": "Amazon",
       "title": "ASIC Engineer Intern",
-      "url": "https://amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027",
+      "url": "https://go.vansh.nyc/hA",
       "locations": [
         "Seattle, WA",
         "Austin, TX",
@@ -67,7 +84,7 @@
       "id": "1b0bb86a-0e78-46e8-8d23-7c649143daa8",
       "company": "Amazon",
       "title": "ASIC Engineer Intern",
-      "url": "https://amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027",
+      "url": "https://go.vansh.nyc/gF",
       "locations": [
         "Sunnyvale, CA"
       ],
@@ -84,7 +101,7 @@
       "id": "49b4a066-840d-4414-9939-01b4c31f3b29",
       "company": "GlobalFoundries",
       "title": "CPU IP Design & Verification Intern, RISC-V Processor Development",
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/CPU-IP-Design---Verification-Intern---RISC-V-Processor-Development--Summer-2027-_JR-2604042",
+      "url": "https://go.vansh.nyc/hm",
       "locations": [
         "Austin, TX",
         "Santa Clara, CA"
@@ -103,7 +120,7 @@
       "id": "c9326723-b3d4-43cd-8fa9-beba737f442f",
       "company": "Ambarella",
       "title": "Physical Design Engineer Intern",
-      "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Physical-Design-Engineer-Intern_JR100393",
+      "url": "https://go.vansh.nyc/gy",
       "locations": [
         "United States"
       ],
@@ -121,7 +138,7 @@
       "id": "9835db48-92e8-44b1-af8b-d324cf16e3bf",
       "company": "Microchip Technology",
       "title": "Engineering Intern, ASIC Verification",
-      "url": "https://microchiphr.wd5.myworkdayjobs.com/External/job/CA---San-Jose---3870-N-First-St/Intern---Engineering--ASIC-Verification-_R3851-26",
+      "url": "https://go.vansh.nyc/ed",
       "locations": [
         "San Jose, CA"
       ],
@@ -139,7 +156,7 @@
       "id": "e3b16f0e-a834-496f-8e97-52fca38397ea",
       "company": "Marvell",
       "title": "Silicon Validation Intern",
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850-1",
+      "url": "https://go.vansh.nyc/dq",
       "locations": [
         "Santa Clara, CA"
       ],
@@ -157,7 +174,7 @@
       "id": "f3f90e9c-ae9a-41e9-bc8c-52ea6f42de1a",
       "company": "Altera",
       "title": "FPGA IP Design Engineer Intern",
-      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer---Intern_R03299",
+      "url": "https://go.vansh.nyc/d3",
       "locations": [
         "Toronto, ON, Canada"
       ],
@@ -175,7 +192,7 @@
       "id": "b002f7f0-d82d-4dd8-b6d6-f28e938e3324",
       "company": "SK Hynix Memory Solution",
       "title": "ASIC Design Intern",
-      "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4460200009",
+      "url": "https://go.vansh.nyc/gp",
       "locations": [
         "San Jose, CA"
       ],
@@ -193,7 +210,7 @@
       "id": "30c9edfa-24b4-41e5-9cd5-53d07a2c39f6",
       "company": "Keysight Technologies",
       "title": "R&D Hardware Engineer Intern",
-      "url": "https://jobs.keysight.com/jobs/54804?icims=1",
+      "url": "https://go.vansh.nyc/ce",
       "locations": [
         "Santa Clara, CA"
       ],
@@ -210,7 +227,7 @@
       "id": "a1edc3c4-0385-4950-a68a-672763661b2a",
       "company": "Qualcomm",
       "title": "QDSP Hardware Physical Design Intern",
-      "url": "https://qualcomm.eightfold.ai/careers/job/446721636316",
+      "url": "https://go.vansh.nyc/c9",
       "locations": [
         "Markham, ON, Canada"
       ],
@@ -227,7 +244,7 @@
       "id": "29c329c1-e3a2-499d-a622-9b1017a00282",
       "company": "NVIDIA",
       "title": "ASIC Verification Intern",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982",
+      "url": "https://go.vansh.nyc/bT",
       "locations": [
         "Toronto, ON, Canada"
       ],
@@ -246,7 +263,7 @@
       "id": "4e4b84eb-8cd4-4a4c-b71f-e5b60e2e1936",
       "company": "Apple",
       "title": "SoC Machine Learning Software Engineer Intern",
-      "url": "https://jobs.apple.com/en-us/details/200689488",
+      "url": "https://go.vansh.nyc/aN",
       "locations": [
         "Sunnyvale, CA"
       ],
@@ -263,7 +280,7 @@
       "id": "6a6d4d9c-5866-4b37-984c-93f72b704f1d",
       "company": "HPR",
       "title": "FPGA Engineering Intern",
-      "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003",
+      "url": "https://go.vansh.nyc/6R",
       "locations": [
         "Needham, MA"
       ],
@@ -280,7 +297,7 @@
       "id": "f09ce418-abc9-4aa1-aa21-9436909f9bc6",
       "company": "DRW",
       "title": "FPGA Intern",
-      "url": "https://www.drw.com/work-at-drw/listings/fpga-intern-3484423",
+      "url": "https://go.vansh.nyc/5n",
       "locations": [
         "Chicago, IL"
       ],
@@ -294,27 +311,10 @@
       ]
     },
     {
-      "id": "f54eae4a-2d0d-4122-99d8-ed17feddf8c8",
-      "company": "IMC",
-      "title": "Hardware Engineer Intern",
-      "url": "https://www.imc.com/us/careers/jobs/4823945101",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "season": "Summer",
-      "sponsorship": "Offers Sponsorship",
-      "posted": 1784885006,
-      "lane": "design",
-      "source": "community",
-      "keywords": [
-        "hardware engineer"
-      ]
-    },
-    {
       "id": "c6e7a7e2-7ba2-4e42-b50c-2b0b80496640",
       "company": "Jane Street",
       "title": "Hardware Engineer (FPGA/ASIC) Intern",
-      "url": "https://www.janestreet.com/join-jane-street/position/8624440002/",
+      "url": "https://go.vansh.nyc/44",
       "locations": [
         "New York, NY"
       ],
@@ -326,23 +326,6 @@
       "keywords": [
         "asic",
         "fpga",
-        "hardware engineer"
-      ]
-    },
-    {
-      "id": "fa59ddd3-89e0-4cf9-92cb-d81845723939",
-      "company": "Akuna Capital",
-      "title": "Hardware Engineer Intern",
-      "url": "https://akunacapital.com/careers/job/8018880/?gh_jid=8018880",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "season": "Summer",
-      "sponsorship": "U.S. Citizenship is Required",
-      "posted": 1784878920,
-      "lane": "design",
-      "source": "community",
-      "keywords": [
         "hardware engineer"
       ]
     }
