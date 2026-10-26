@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-25T11:07:55+00:00",
+  "updated_at": "2026-10-26T12:41:32+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 18,
-    "design": 13,
-    "verification": 5
+    "total": 47,
+    "design": 34,
+    "verification": 13
   },
   "roles": [
     {
@@ -112,6 +112,25 @@
       "lane": "verification",
       "source": "community",
       "keywords": [
+        "verification",
+        "verification intern"
+      ]
+    },
+    {
+      "id": "43b4ea30-5021-442d-98fd-e5eb6d3dd64d",
+      "company": "Apple",
+      "title": "Cellular Baseband Design Verification Intern",
+      "url": "https://go.vansh.nyc/Dd",
+      "locations": [
+        "United States"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1792686172,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "design verification",
         "verification",
         "verification intern"
       ]
@@ -274,6 +293,505 @@
       "source": "community",
       "keywords": [
         "soc"
+      ]
+    },
+    {
+      "id": "2e6f2e12-121d-4302-b653-b54d5d72cead",
+      "company": "GlobalFoundries",
+      "title": "Foundation IP Design Verification Intern",
+      "url": "https://go.vansh.nyc/CM",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1792108800,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "design verification",
+        "verification",
+        "verification intern"
+      ]
+    },
+    {
+      "id": "2b32a505-10d9-4672-a756-81f297cebd3c",
+      "company": "Astera Labs",
+      "title": "Design Verification Engineer Intern",
+      "url": "https://go.vansh.nyc/C9",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1791929269,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "design verification",
+        "verification",
+        "verification engineer"
+      ]
+    },
+    {
+      "id": "fe6f6d58-8949-4908-b164-06b50edeee86",
+      "company": "Astera Labs",
+      "title": "Digital RTL Design Engineer Intern",
+      "url": "https://go.vansh.nyc/C8",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1791929268,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "design engineer",
+        "rtl",
+        "rtl design"
+      ]
+    },
+    {
+      "id": "f18ea65a-829c-4f27-85aa-0a6f6bc73dbd",
+      "company": "Hewlett Packard Enterprise",
+      "title": "ASIC Intern",
+      "url": "https://go.vansh.nyc/GQ",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1791763200,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "asic"
+      ]
+    },
+    {
+      "id": "a0908881-9428-4b2e-88af-bae3677df23a",
+      "company": "Hewlett Packard Enterprise",
+      "title": "VLSI Logic Design Intern",
+      "url": "https://go.vansh.nyc/GR",
+      "locations": [
+        "Chippewa Falls, WI"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1791763200,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "logic design",
+        "vlsi"
+      ]
+    },
+    {
+      "id": "d53d2719-648e-4e36-9167-925867a8fc69",
+      "company": "Hewlett Packard Enterprise",
+      "title": "VLSI Design Verification Intern",
+      "url": "https://go.vansh.nyc/GS",
+      "locations": [
+        "Fort Collins, CO"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1791763200,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "design verification",
+        "verification",
+        "verification intern"
+      ]
+    },
+    {
+      "id": "b5ff7a68-108f-4212-9b8e-f0ef405fb345",
+      "company": "Hewlett Packard Enterprise",
+      "title": "VLSI Logic Design Intern",
+      "url": "https://go.vansh.nyc/GT",
+      "locations": [
+        "Fort Collins, CO"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1791763200,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "logic design",
+        "vlsi"
+      ]
+    },
+    {
+      "id": "717a879a-6aa8-45e5-ae92-e5ed10e29e8d",
+      "company": "Sentinel Technologies",
+      "title": "SOC Intern",
+      "url": "https://go.vansh.nyc/Hg",
+      "locations": [
+        "Downers Grove, IL"
+      ],
+      "season": "Summer",
+      "sponsorship": "Does Not Offer Sponsorship",
+      "posted": 1791518400,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "soc"
+      ]
+    },
+    {
+      "id": "1b2fe108-684c-4a4d-bec5-58d14aa4fc5b",
+      "company": "Hewlett Packard Enterprise",
+      "title": "ASIC Engineer Intern",
+      "url": "https://go.vansh.nyc/Gm",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1791504000,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "asic"
+      ]
+    },
+    {
+      "id": "31ce1756-03e6-4642-a004-2ac718c5ae06",
+      "company": "Garmin",
+      "title": "FPGA Engineer Intern",
+      "url": "https://go.vansh.nyc/FV",
+      "locations": [
+        "Olathe, KS"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1791410856,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "fpga"
+      ]
+    },
+    {
+      "id": "a4271625-78d6-4d82-a18c-209919fd0095",
+      "company": "Hewlett Packard Enterprise",
+      "title": "ASIC Design Engineer Intern",
+      "url": "https://go.vansh.nyc/FM",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1791331200,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "asic",
+        "asic design",
+        "design engineer"
+      ]
+    },
+    {
+      "id": "a21f746e-cc52-4a0c-8e41-abd22cbeeac1",
+      "company": "Astera Labs",
+      "title": "Physical Design Engineer Intern",
+      "url": "https://go.vansh.nyc/Fq",
+      "locations": [
+        "Toronto, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1791267450,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "design engineer",
+        "physical design"
+      ]
+    },
+    {
+      "id": "26b0e9cd-0b41-44bd-bef8-412d9e2f218c",
+      "company": "Astera Labs",
+      "title": "Physical Design Engineer Intern",
+      "url": "https://go.vansh.nyc/Fp",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1791267449,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "design engineer",
+        "physical design"
+      ]
+    },
+    {
+      "id": "4746993c-62d4-4c73-a314-1806b84a5b23",
+      "company": "Astera Labs",
+      "title": "Digital Design Intern",
+      "url": "https://go.vansh.nyc/Fm",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1791267445,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "digital design"
+      ]
+    },
+    {
+      "id": "a26fddd2-6289-4b8c-a49b-4237b75a3031",
+      "company": "Astera Labs",
+      "title": "Design Verification Engineer Intern",
+      "url": "https://go.vansh.nyc/Fg",
+      "locations": [
+        "Toronto, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1791267444,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "design verification",
+        "verification",
+        "verification engineer"
+      ]
+    },
+    {
+      "id": "fe280e5b-e3c9-4f13-b4a1-8cac7759f2f1",
+      "company": "Astera Labs",
+      "title": "Digital Design Engineer Intern",
+      "url": "https://go.vansh.nyc/Fh",
+      "locations": [
+        "Toronto, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1791267444,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "design engineer",
+        "digital design"
+      ]
+    },
+    {
+      "id": "fe620bdb-6d52-499e-9402-7144822608f4",
+      "company": "Astera Labs",
+      "title": "Applied AI Engineer Intern, Silicon Engineering",
+      "url": "https://go.vansh.nyc/Fd",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1791267436,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "silicon"
+      ]
+    },
+    {
+      "id": "a58c0bbb-03af-440e-bd9a-1f62565a3077",
+      "company": "Astera Labs",
+      "title": "Advanced Design Verification Engineer Intern",
+      "url": "https://go.vansh.nyc/Fb",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1791267435,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "design verification",
+        "verification",
+        "verification engineer"
+      ]
+    },
+    {
+      "id": "f87c2a9b-de6c-417d-b65a-5b997cc8a951",
+      "company": "Astera Labs",
+      "title": "Applied AI Intern, Non-Silicon",
+      "url": "https://go.vansh.nyc/Fc",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1791267435,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "silicon"
+      ]
+    },
+    {
+      "id": "4d2c46d7-35bb-4294-93dc-91ced2df5c91",
+      "company": "NVIDIA",
+      "title": "PCIe Design Verification Intern",
+      "url": "https://go.vansh.nyc/EW",
+      "locations": [
+        "Austin, TX"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1791244800,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "design verification",
+        "verification",
+        "verification intern"
+      ]
+    },
+    {
+      "id": "e83a0a98-1eb5-4c29-bb92-9533e1ad79cb",
+      "company": "RTX",
+      "title": "FPGA Engineer Intern",
+      "url": "https://go.vansh.nyc/F5",
+      "locations": [
+        "McKinney, TX"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1791244800,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "fpga"
+      ]
+    },
+    {
+      "id": "e3b27888-355b-471e-b614-489f7c1f8a33",
+      "company": "Marvell",
+      "title": "Hardware Engineer Intern",
+      "url": "https://go.vansh.nyc/EK",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1791158400,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "hardware engineer"
+      ]
+    },
+    {
+      "id": "7de52599-9548-41cc-b0de-0e437ab62bc7",
+      "company": "Hewlett Packard Enterprise",
+      "title": "VLSI Design Verification Intern",
+      "url": "https://go.vansh.nyc/Ew",
+      "locations": [
+        "Chippewa Falls, WI"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1791072000,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "design verification",
+        "verification",
+        "verification intern"
+      ]
+    },
+    {
+      "id": "4bb4553c-6927-4cc3-b2cf-ef8520422e6c",
+      "company": "Hewlett Packard Enterprise",
+      "title": "ASIC Engineer Intern",
+      "url": "https://go.vansh.nyc/Er",
+      "locations": [
+        "Durham, NC"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1790899200,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "asic"
+      ]
+    },
+    {
+      "id": "b38a7795-d9d0-475e-ab6c-13af712fb0ff",
+      "company": "Oceaneering",
+      "title": "Cybersecurity SOC Intern",
+      "url": "https://go.vansh.nyc/GZ",
+      "locations": [
+        "Houston, TX"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1790700586,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "soc"
+      ]
+    },
+    {
+      "id": "e30f22f5-e7e6-4773-bda1-4e6140010c04",
+      "company": "Qualcomm",
+      "title": "Silicon Engineering Intern",
+      "url": "https://go.vansh.nyc/DT",
+      "locations": [
+        "Toronto, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1790634303,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "silicon"
+      ]
+    },
+    {
+      "id": "8694d38e-705f-4a86-9484-0b73f0b570a9",
+      "company": "Qualcomm",
+      "title": "Soft IP ASIC Engineer Intern",
+      "url": "https://go.vansh.nyc/DS",
+      "locations": [
+        "Ottawa, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1790634300,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "asic"
+      ]
+    },
+    {
+      "id": "6294c5ae-657c-48de-a483-8264c1169907",
+      "company": "onsemi",
+      "title": "Integrated Circuit Design Engineer Intern",
+      "url": "https://go.vansh.nyc/DQ",
+      "locations": [
+        "Allen, TX"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1790633467,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "design engineer"
       ]
     },
     {
