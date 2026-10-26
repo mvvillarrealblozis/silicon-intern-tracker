@@ -1,14 +1,31 @@
 {
-  "updated_at": "2026-10-26T12:41:32+00:00",
+  "updated_at": "2026-10-26T22:32:10+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 47,
-    "design": 34,
-    "verification": 13
+    "total": 68,
+    "design": 50,
+    "verification": 18
   },
   "roles": [
+    {
+      "id": "be3bddf8-0116-4d05-92c4-87291b45a966",
+      "company": "Cadence",
+      "title": "CST Application Engineer Intern, Silicon",
+      "url": "https://go.vansh.nyc/Sz",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1793032585,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "silicon"
+      ]
+    },
     {
       "id": "0d53e571-a12a-43b0-a575-b956d62cfcb5",
       "company": "Skydio",
@@ -276,6 +293,62 @@
         "asic verification",
         "verification",
         "verification intern"
+      ]
+    },
+    {
+      "id": "361b727c-5a4b-4bf9-aad9-684964966e1e",
+      "company": "Celestica",
+      "title": "Software & Hardware Engineer Intern",
+      "url": "https://go.vansh.nyc/R2",
+      "locations": [
+        "Austin, TX"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1792339604,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "hardware engineer"
+      ]
+    },
+    {
+      "id": "55c6a834-1f78-45b1-b326-8d88c1946fab",
+      "company": "Qualcomm",
+      "title": "Hardware Engineering Intern, CPU, GPU, SoC, Digital Design, DV",
+      "url": "https://go.vansh.nyc/Ru",
+      "locations": [
+        "San Diego, CA",
+        "Austin, TX",
+        "Boxborough, MA",
+        "Tempe, AZ",
+        "Santa Clara, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1792339604,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "digital design",
+        "soc"
+      ]
+    },
+    {
+      "id": "52fa71d2-bcac-4ab2-8547-f1ec2c6fd39d",
+      "company": "Qualcomm",
+      "title": "Low-Power AI, Audio, and Sensors Subsystem Engineering Intern, ASIC Firmware / Embedded",
+      "url": "https://go.vansh.nyc/Rx",
+      "locations": [
+        "Markham, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1792339604,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "asic"
       ]
     },
     {
@@ -727,6 +800,23 @@
       ]
     },
     {
+      "id": "55a5cb3d-4d05-4c72-a959-55dbdf1dcae7",
+      "company": "Hudson River Trading",
+      "title": "FPGA Verification and Developer Intern",
+      "url": "https://go.vansh.nyc/QI",
+      "locations": [
+        "New York, NY"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1790865437,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "verification"
+      ]
+    },
+    {
       "id": "b38a7795-d9d0-475e-ab6c-13af712fb0ff",
       "company": "Oceaneering",
       "title": "Cybersecurity SOC Intern",
@@ -788,6 +878,300 @@
       "season": "Summer",
       "sponsorship": "Other",
       "posted": 1790633467,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "design engineer"
+      ]
+    },
+    {
+      "id": "e7937f77-c5bd-4428-b491-61dc20d788e9",
+      "company": "Astranis",
+      "title": "FPGA Intern",
+      "url": "https://go.vansh.nyc/Jw",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1790212086,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "fpga"
+      ]
+    },
+    {
+      "id": "cee3f8b4-1561-4bac-bf8f-611bfce87c7d",
+      "company": "Marvell",
+      "title": "Data Center Silicon Hardware Engineering Co-op",
+      "url": "https://go.vansh.nyc/Jt",
+      "locations": [
+        "Toronto, Canada",
+        "Ottawa, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1790208000,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "silicon"
+      ]
+    },
+    {
+      "id": "5f68a1bf-0bf1-4dcb-a219-28c615b9ee38",
+      "company": "Qualcomm",
+      "title": "Digital Design Engineer Intern",
+      "url": "https://go.vansh.nyc/Q0",
+      "locations": [
+        "Toronto, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1789770263,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "design engineer",
+        "digital design"
+      ]
+    },
+    {
+      "id": "21855923-ff83-4727-91e1-9aa51143b3a6",
+      "company": "Qualcomm",
+      "title": "MSIP Digital Design Verification Engineering Intern, HW",
+      "url": "https://go.vansh.nyc/IQ",
+      "locations": [
+        "Toronto, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1789770259,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "design verification",
+        "verification"
+      ]
+    },
+    {
+      "id": "f3701ba8-6693-424a-bde1-b27ba19d1acd",
+      "company": "Cisco",
+      "title": "Hardware Engineer I Intern",
+      "url": "https://go.vansh.nyc/JR",
+      "locations": [
+        "San Jose, CA",
+        "Austin, TX",
+        "Research Triangle Park, NC"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1789613217,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "hardware engineer"
+      ]
+    },
+    {
+      "id": "eeba690d-5add-4c91-896b-bd309fee79ab",
+      "company": "Keysight Technologies",
+      "title": "ASIC Design-for-Test Engineer Intern, DFT",
+      "url": "https://go.vansh.nyc/Is",
+      "locations": [
+        "Colorado Springs, CO"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1789510243,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "dft"
+      ]
+    },
+    {
+      "id": "3cc0fd25-7e91-424c-97e2-f025ecae1030",
+      "company": "Motorola",
+      "title": "FPGA Design Engineering Intern",
+      "url": "https://go.vansh.nyc/Mq",
+      "locations": [
+        "Schaumburg, IL"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1788912000,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "fpga"
+      ]
+    },
+    {
+      "id": "d00f7916-e61d-4f41-862e-4bb231ee7823",
+      "company": "RTX",
+      "title": "FPGA Electrical Design Engineer Intern",
+      "url": "https://go.vansh.nyc/Mk",
+      "locations": [
+        "Tucson, AZ"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1788825600,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "design engineer",
+        "fpga"
+      ]
+    },
+    {
+      "id": "d37d81c0-363d-4dfa-9449-ad3d9f11bb82",
+      "company": "RTX",
+      "title": "Digital Design Electrical Engineer Intern",
+      "url": "https://go.vansh.nyc/Ml",
+      "locations": [
+        "Tucson, AZ"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1788825600,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "digital design"
+      ]
+    },
+    {
+      "id": "472cfc91-92b9-45ed-b9ac-f1fcde81a1e7",
+      "company": "Marvell",
+      "title": "Design Verification Intern",
+      "url": "https://go.vansh.nyc/Me",
+      "locations": [
+        "Morrisville, NC",
+        "Austin, TX",
+        "Santa Clara, CA",
+        "Boise, ID",
+        "Westborough, MA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1788480000,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "design verification",
+        "verification",
+        "verification intern"
+      ]
+    },
+    {
+      "id": "1b326f44-6f5e-4a09-9566-709a8ea6c54c",
+      "company": "Marvell",
+      "title": "Physical Design Engineer Intern",
+      "url": "https://go.vansh.nyc/Mf",
+      "locations": [
+        "Morrisville, NC",
+        "Austin, TX",
+        "Rochester, MN",
+        "Santa Clara, CA",
+        "Boise, ID",
+        "Burlington, VT",
+        "Westborough, MA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1788480000,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "design engineer",
+        "physical design"
+      ]
+    },
+    {
+      "id": "25da5e92-f417-4345-887e-e9f80064d8df",
+      "company": "AMD",
+      "title": "ASIC Verification Engineer Co-op",
+      "url": "https://go.vansh.nyc/M6",
+      "locations": [
+        "Ottawa, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1788401829,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "asic verification",
+        "verification",
+        "verification engineer"
+      ]
+    },
+    {
+      "id": "836a1066-b390-4e7d-b16a-1fae9a49c0cf",
+      "company": "Hewlett Packard Enterprise",
+      "title": "ASIC Firmware and Diagnostic Intern",
+      "url": "https://go.vansh.nyc/M3",
+      "locations": [
+        "Bloomington, MN",
+        "Chippewa Falls, WI"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1788393600,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "asic"
+      ]
+    },
+    {
+      "id": "d6219af4-7c72-420e-ace5-cbf9a720cb0e",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Pre-Silicon Diagnostics Intern",
+      "url": "https://go.vansh.nyc/M4",
+      "locations": [
+        "Fort Collins, CO"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1788393600,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "silicon"
+      ]
+    },
+    {
+      "id": "7324a781-3aa6-4c7b-9b7a-e7013684f814",
+      "company": "AMD",
+      "title": "Hardware Design Engineer Co-op",
+      "url": "https://go.vansh.nyc/LN",
+      "locations": [
+        "Markham, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1788256547,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "design engineer"
+      ]
+    },
+    {
+      "id": "efb7c2a0-e3b3-45fe-91f3-608cf5d9daa8",
+      "company": "AMD",
+      "title": "Hardware Design Engineer Co-op",
+      "url": "https://go.vansh.nyc/LI",
+      "locations": [
+        "Vancouver, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1788256546,
       "lane": "design",
       "source": "community",
       "keywords": [
