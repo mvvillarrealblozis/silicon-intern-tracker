@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27T04:39:01+00:00",
+  "updated_at": "2026-10-27T17:52:52+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 67,
-    "design": 49,
+    "total": 66,
+    "design": 48,
     "verification": 18
   },
   "roles": [
@@ -331,23 +331,6 @@
       "source": "community",
       "keywords": [
         "asic"
-      ]
-    },
-    {
-      "id": "4e4b84eb-8cd4-4a4c-b71f-e5b60e2e1936",
-      "company": "Apple",
-      "title": "SoC Machine Learning Software Engineer Intern",
-      "url": "https://go.vansh.nyc/aN",
-      "locations": [
-        "Sunnyvale, CA"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1792114389,
-      "lane": "design",
-      "source": "community",
-      "keywords": [
-        "soc"
       ]
     },
     {
