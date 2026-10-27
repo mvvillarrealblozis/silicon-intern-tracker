@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26T22:32:10+00:00",
+  "updated_at": "2026-10-27T04:39:01+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 68,
-    "design": 50,
+    "total": 67,
+    "design": 49,
     "verification": 18
   },
   "roles": [
@@ -204,24 +204,6 @@
       "keywords": [
         "silicon validation",
         "validation"
-      ]
-    },
-    {
-      "id": "f3f90e9c-ae9a-41e9-bc8c-52ea6f42de1a",
-      "company": "Altera",
-      "title": "FPGA IP Design Engineer Intern",
-      "url": "https://go.vansh.nyc/d3",
-      "locations": [
-        "Toronto, ON, Canada"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1792454400,
-      "lane": "design",
-      "source": "community",
-      "keywords": [
-        "design engineer",
-        "fpga"
       ]
     },
     {
