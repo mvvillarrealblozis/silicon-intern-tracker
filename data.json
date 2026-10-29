@@ -1,14 +1,50 @@
 {
-  "updated_at": "2026-10-29T05:23:55+00:00",
+  "updated_at": "2026-10-29T22:39:19+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 69,
-    "design": 48,
-    "verification": 21
+    "total": 71,
+    "design": 49,
+    "verification": 22
   },
   "roles": [
+    {
+      "id": "b600cd62-e9b7-4ae0-91ff-fa1f3081e5c2",
+      "company": "Hewlett Packard Enterprise",
+      "title": "ASIC Verification Engineering Intern",
+      "url": "https://go.vansh.nyc/Zt",
+      "locations": [
+        "Roseville, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1793303030,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "asic verification",
+        "verification"
+      ]
+    },
+    {
+      "id": "dd1bffdc-6a81-490e-8c8f-9d83aceb59c4",
+      "company": "Micron Technology",
+      "title": "ASIC Digital Design Intern",
+      "url": "https://go.vansh.nyc/Z8",
+      "locations": [
+        "Minneapolis, MN"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1793234263,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "asic",
+        "digital design"
+      ]
+    },
     {
       "id": "3f7b7be2-9288-4160-9b4d-80a869da8856",
       "company": "Apple",
