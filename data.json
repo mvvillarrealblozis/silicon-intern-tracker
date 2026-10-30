@@ -1,14 +1,31 @@
 {
-  "updated_at": "2026-10-29T22:39:19+00:00",
+  "updated_at": "2026-10-30T05:23:43+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 71,
-    "design": 49,
+    "total": 72,
+    "design": 50,
     "verification": 22
   },
   "roles": [
+    {
+      "id": "c05faa87-289b-4adf-a908-5075cdc4f44f",
+      "company": "L3Harris Technologies",
+      "title": "FPGA Software Tool Developer Co-op",
+      "url": "https://go.vansh.nyc/10n",
+      "locations": [
+        "Waterdown, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1793329555,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "fpga"
+      ]
+    },
     {
       "id": "b600cd62-e9b7-4ae0-91ff-fa1f3081e5c2",
       "company": "Hewlett Packard Enterprise",
