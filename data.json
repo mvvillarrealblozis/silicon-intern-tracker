@@ -1,14 +1,48 @@
 {
-  "updated_at": "2026-10-30T12:36:25+00:00",
+  "updated_at": "2026-10-30T22:09:22+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 71,
-    "design": 49,
+    "total": 73,
+    "design": 51,
     "verification": 22
   },
   "roles": [
+    {
+      "id": "05251791-37a1-41a3-9ef7-c90df944470f",
+      "company": "Altera",
+      "title": "Hardware Design Engineer Intern",
+      "url": "https://go.vansh.nyc/10W",
+      "locations": [
+        "Toronto, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1793385730,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "design engineer"
+      ]
+    },
+    {
+      "id": "d1823cbf-0c3d-4f43-af0c-9c91b87174d9",
+      "company": "Altera",
+      "title": "FPGA Development Tools Intern",
+      "url": "https://go.vansh.nyc/10V",
+      "locations": [
+        "Toronto, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1793385719,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "fpga"
+      ]
+    },
     {
       "id": "c05faa87-289b-4adf-a908-5075cdc4f44f",
       "company": "L3Harris Technologies",
