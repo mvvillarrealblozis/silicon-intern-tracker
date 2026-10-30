@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30T05:23:43+00:00",
+  "updated_at": "2026-10-30T12:36:25+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 72,
-    "design": 50,
+    "total": 71,
+    "design": 49,
     "verification": 22
   },
   "roles": [
@@ -1029,25 +1029,6 @@
       "keywords": [
         "design verification",
         "verification"
-      ]
-    },
-    {
-      "id": "f3701ba8-6693-424a-bde1-b27ba19d1acd",
-      "company": "Cisco",
-      "title": "Hardware Engineer I Intern",
-      "url": "https://go.vansh.nyc/JR",
-      "locations": [
-        "San Jose, CA",
-        "Austin, TX",
-        "Research Triangle Park, NC"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1789613217,
-      "lane": "design",
-      "source": "community",
-      "keywords": [
-        "hardware engineer"
       ]
     },
     {
