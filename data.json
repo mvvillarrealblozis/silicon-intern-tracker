@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31T05:07:44+00:00",
+  "updated_at": "2026-10-31T12:03:22+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 71,
-    "design": 50,
+    "total": 68,
+    "design": 47,
     "verification": 21
   },
   "roles": [
@@ -804,23 +804,6 @@
       ]
     },
     {
-      "id": "e83a0a98-1eb5-4c29-bb92-9533e1ad79cb",
-      "company": "RTX",
-      "title": "FPGA Engineer Intern",
-      "url": "https://go.vansh.nyc/F5",
-      "locations": [
-        "McKinney, TX"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1791244800,
-      "lane": "design",
-      "source": "community",
-      "keywords": [
-        "fpga"
-      ]
-    },
-    {
       "id": "e3b27888-355b-471e-b614-489f7c1f8a33",
       "company": "Marvell",
       "title": "Hardware Engineer Intern",
@@ -1061,41 +1044,6 @@
       "source": "community",
       "keywords": [
         "fpga"
-      ]
-    },
-    {
-      "id": "d00f7916-e61d-4f41-862e-4bb231ee7823",
-      "company": "RTX",
-      "title": "FPGA Electrical Design Engineer Intern",
-      "url": "https://go.vansh.nyc/Mk",
-      "locations": [
-        "Tucson, AZ"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1788825600,
-      "lane": "design",
-      "source": "community",
-      "keywords": [
-        "design engineer",
-        "fpga"
-      ]
-    },
-    {
-      "id": "d37d81c0-363d-4dfa-9449-ad3d9f11bb82",
-      "company": "RTX",
-      "title": "Digital Design Electrical Engineer Intern",
-      "url": "https://go.vansh.nyc/Ml",
-      "locations": [
-        "Tucson, AZ"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1788825600,
-      "lane": "design",
-      "source": "community",
-      "keywords": [
-        "digital design"
       ]
     },
     {
