@@ -1,14 +1,33 @@
 {
-  "updated_at": "2026-10-30T22:09:22+00:00",
+  "updated_at": "2026-10-31T05:07:44+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 73,
-    "design": 51,
-    "verification": 22
+    "total": 71,
+    "design": 50,
+    "verification": 21
   },
   "roles": [
+    {
+      "id": "26ebb2f0-ea10-436f-884a-1a358c84f249",
+      "company": "Qualcomm",
+      "title": "Camera HW ASIC Verification Intern",
+      "url": "https://go.vansh.nyc/11z",
+      "locations": [
+        "Vancouver, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1793400189,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "asic verification",
+        "verification",
+        "verification intern"
+      ]
+    },
     {
       "id": "05251791-37a1-41a3-9ef7-c90df944470f",
       "company": "Altera",
@@ -404,25 +423,6 @@
       ]
     },
     {
-      "id": "29c329c1-e3a2-499d-a622-9b1017a00282",
-      "company": "NVIDIA",
-      "title": "ASIC Verification Intern",
-      "url": "https://go.vansh.nyc/bT",
-      "locations": [
-        "Toronto, ON, Canada"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1792368000,
-      "lane": "verification",
-      "source": "community",
-      "keywords": [
-        "asic verification",
-        "verification",
-        "verification intern"
-      ]
-    },
-    {
       "id": "361b727c-5a4b-4bf9-aad9-684964966e1e",
       "company": "Celestica",
       "title": "Software & Hardware Engineer Intern",
@@ -459,23 +459,6 @@
       "keywords": [
         "digital design",
         "soc"
-      ]
-    },
-    {
-      "id": "52fa71d2-bcac-4ab2-8547-f1ec2c6fd39d",
-      "company": "Qualcomm",
-      "title": "Low-Power AI, Audio, and Sensors Subsystem Engineering Intern, ASIC Firmware / Embedded",
-      "url": "https://go.vansh.nyc/Rx",
-      "locations": [
-        "Markham, Canada"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1792339604,
-      "lane": "design",
-      "source": "community",
-      "keywords": [
-        "asic"
       ]
     },
     {
@@ -818,25 +801,6 @@
       "source": "community",
       "keywords": [
         "silicon"
-      ]
-    },
-    {
-      "id": "4d2c46d7-35bb-4294-93dc-91ced2df5c91",
-      "company": "NVIDIA",
-      "title": "PCIe Design Verification Intern",
-      "url": "https://go.vansh.nyc/EW",
-      "locations": [
-        "Austin, TX"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1791244800,
-      "lane": "verification",
-      "source": "community",
-      "keywords": [
-        "design verification",
-        "verification",
-        "verification intern"
       ]
     },
     {
