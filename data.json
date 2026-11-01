@@ -1,14 +1,34 @@
 {
-  "updated_at": "2026-10-31T12:03:22+00:00",
+  "updated_at": "2026-11-01T13:03:19+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 68,
-    "design": 47,
+    "total": 69,
+    "design": 48,
     "verification": 21
   },
   "roles": [
+    {
+      "id": "94c780df-931b-4ae8-8c96-911459918401",
+      "company": "ByteDance",
+      "title": "ASIC Design Engineer Intern, Video Silicon IP",
+      "url": "https://go.vansh.nyc/14u",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1793519707,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "asic",
+        "asic design",
+        "design engineer",
+        "silicon"
+      ]
+    },
     {
       "id": "26ebb2f0-ea10-436f-884a-1a358c84f249",
       "company": "Qualcomm",
