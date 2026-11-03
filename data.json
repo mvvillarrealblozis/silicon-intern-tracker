@@ -1,14 +1,33 @@
 {
-  "updated_at": "2026-11-03T00:50:25+00:00",
+  "updated_at": "2026-11-03T23:07:31+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 69,
+    "total": 70,
     "design": 49,
-    "verification": 20
+    "verification": 21
   },
   "roles": [
+    {
+      "id": "fa17d9f6-465a-4727-ab5c-d35b24df04f8",
+      "company": "Marvell",
+      "title": "Security Verification/Validation Engineer Intern",
+      "url": "https://go.vansh.nyc/1dy",
+      "locations": [
+        "Chandler, AZ"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1793664000,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "validation",
+        "validation engineer",
+        "verification"
+      ]
+    },
     {
       "id": "f3fc4dbc-55db-4ad5-837a-a70a8bc94a52",
       "company": "Qualcomm",
