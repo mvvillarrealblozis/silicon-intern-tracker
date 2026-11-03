@@ -1,14 +1,68 @@
 {
-  "updated_at": "2026-11-01T13:03:19+00:00",
+  "updated_at": "2026-11-03T00:50:25+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
     "total": 69,
-    "design": 48,
-    "verification": 21
+    "design": 49,
+    "verification": 20
   },
   "roles": [
+    {
+      "id": "f3fc4dbc-55db-4ad5-837a-a70a8bc94a52",
+      "company": "Qualcomm",
+      "title": "Verification Engineer Intern",
+      "url": "https://go.vansh.nyc/1bu",
+      "locations": [
+        "Toronto, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1793662055,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "verification",
+        "verification engineer"
+      ]
+    },
+    {
+      "id": "2d3f96d5-61a6-4ce5-b30c-c247cce3fbc6",
+      "company": "Qualcomm",
+      "title": "SoC Engineering Intern",
+      "url": "https://go.vansh.nyc/1a0",
+      "locations": [
+        "Markham, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1793659406,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "soc"
+      ]
+    },
+    {
+      "id": "b783ad7e-c596-44f9-9bf2-09cf205898a1",
+      "company": "GlobalFoundries",
+      "title": "Design Verification Engineer Intern",
+      "url": "https://go.vansh.nyc/1ba",
+      "locations": [
+        "Richardson, TX"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1793577600,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "design verification",
+        "verification",
+        "verification engineer"
+      ]
+    },
     {
       "id": "94c780df-931b-4ae8-8c96-911459918401",
       "company": "ByteDance",
@@ -133,25 +187,6 @@
       "keywords": [
         "asic",
         "digital design"
-      ]
-    },
-    {
-      "id": "3f7b7be2-9288-4160-9b4d-80a869da8856",
-      "company": "Apple",
-      "title": "Design Verification Engineer Intern",
-      "url": "https://go.vansh.nyc/Yx",
-      "locations": [
-        "Beaverton, OR"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1793227512,
-      "lane": "verification",
-      "source": "community",
-      "keywords": [
-        "design verification",
-        "verification",
-        "verification engineer"
       ]
     },
     {
@@ -841,25 +876,6 @@
       ]
     },
     {
-      "id": "7de52599-9548-41cc-b0de-0e437ab62bc7",
-      "company": "Hewlett Packard Enterprise",
-      "title": "VLSI Design Verification Intern",
-      "url": "https://go.vansh.nyc/Ew",
-      "locations": [
-        "Chippewa Falls, WI"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1791072000,
-      "lane": "verification",
-      "source": "community",
-      "keywords": [
-        "design verification",
-        "verification",
-        "verification intern"
-      ]
-    },
-    {
       "id": "4bb4553c-6927-4cc3-b2cf-ef8520422e6c",
       "company": "Hewlett Packard Enterprise",
       "title": "ASIC Engineer Intern",
@@ -1030,23 +1046,6 @@
       "keywords": [
         "design verification",
         "verification"
-      ]
-    },
-    {
-      "id": "eeba690d-5add-4c91-896b-bd309fee79ab",
-      "company": "Keysight Technologies",
-      "title": "ASIC Design-for-Test Engineer Intern, DFT",
-      "url": "https://go.vansh.nyc/Is",
-      "locations": [
-        "Colorado Springs, CO"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1789510243,
-      "lane": "verification",
-      "source": "community",
-      "keywords": [
-        "dft"
       ]
     },
     {
