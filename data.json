@@ -1,14 +1,31 @@
 {
-  "updated_at": "2026-11-03T23:07:31+00:00",
+  "updated_at": "2026-11-04T23:29:15+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 70,
-    "design": 49,
+    "total": 71,
+    "design": 50,
     "verification": 21
   },
   "roles": [
+    {
+      "id": "18c24104-ea8f-4a9d-9c1f-4f8a61310325",
+      "company": "RTX",
+      "title": "FPGA Design Intern",
+      "url": "https://go.vansh.nyc/1hb",
+      "locations": [
+        "Cedar Rapids, IA"
+      ],
+      "season": "Summer",
+      "sponsorship": "U.S. Citizenship is Required",
+      "posted": 1793833567,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "fpga"
+      ]
+    },
     {
       "id": "fa17d9f6-465a-4727-ab5c-d35b24df04f8",
       "company": "Marvell",
