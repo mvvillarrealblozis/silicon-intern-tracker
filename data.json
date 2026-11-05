@@ -1,29 +1,65 @@
 {
-  "updated_at": "2026-11-04T23:29:15+00:00",
+  "updated_at": "2026-11-05T06:13:02+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 71,
+    "total": 73,
     "design": 50,
-    "verification": 21
+    "verification": 23
   },
   "roles": [
     {
-      "id": "18c24104-ea8f-4a9d-9c1f-4f8a61310325",
-      "company": "RTX",
-      "title": "FPGA Design Intern",
-      "url": "https://go.vansh.nyc/1hb",
+      "id": "392d065e-cfcd-456b-b438-b265c4a79101",
+      "company": "Texas Instruments",
+      "title": "Digital Design Verification Engineer Intern",
+      "url": "https://go.vansh.nyc/1hB",
       "locations": [
-        "Cedar Rapids, IA"
+        "Santa Clara, CA"
       ],
       "season": "Summer",
-      "sponsorship": "U.S. Citizenship is Required",
-      "posted": 1793833567,
+      "sponsorship": "Other",
+      "posted": 1793846893,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "design verification",
+        "verification",
+        "verification engineer"
+      ]
+    },
+    {
+      "id": "6a5ccaa2-c755-4e18-8b7e-b0ea90800a9a",
+      "company": "Keysight Technologies",
+      "title": "R&D DSP/FPGA Design Automation Intern",
+      "url": "https://go.vansh.nyc/1hn",
+      "locations": [
+        "Santa Rosa, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1793844399,
       "lane": "design",
       "source": "community",
       "keywords": [
         "fpga"
+      ]
+    },
+    {
+      "id": "8d502a9b-56e3-4774-a9c4-b8301e1a3dfd",
+      "company": "Qualcomm",
+      "title": "Display IP FPGA Emulation Intern",
+      "url": "https://go.vansh.nyc/1hp",
+      "locations": [
+        "Markham, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1793844399,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "emulation"
       ]
     },
     {
