@@ -1,14 +1,31 @@
 {
-  "updated_at": "2026-11-05T06:13:02+00:00",
+  "updated_at": "2026-11-05T19:47:19+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 73,
-    "design": 50,
-    "verification": 23
+    "total": 74,
+    "design": 52,
+    "verification": 22
   },
   "roles": [
+    {
+      "id": "02f4e59a-2b01-4795-b089-f130201b9407",
+      "company": "General Dynamics Mission Systems",
+      "title": "FPGA Engineer Intern",
+      "url": "https://go.vansh.nyc/1i0",
+      "locations": [
+        "Manassas, VA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1793864886,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "fpga"
+      ]
+    },
     {
       "id": "392d065e-cfcd-456b-b438-b265c4a79101",
       "company": "Texas Instruments",
@@ -79,6 +96,23 @@
         "validation",
         "validation engineer",
         "verification"
+      ]
+    },
+    {
+      "id": "19f3474a-9a74-443a-96a7-60367b66994a",
+      "company": "General Dynamics Mission Systems",
+      "title": "Electrical Engineering Intern, FPGA",
+      "url": "https://go.vansh.nyc/1hW",
+      "locations": [
+        "Middletown, RI"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1793664000,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "fpga"
       ]
     },
     {
@@ -259,24 +293,6 @@
       "keywords": [
         "asic",
         "digital design"
-      ]
-    },
-    {
-      "id": "f20c3454-be94-48bf-a2a9-21b8a47c095a",
-      "company": "Booz Allen Hamilton",
-      "title": "Design and Verification Engineer Intern",
-      "url": "https://go.vansh.nyc/Yk",
-      "locations": [
-        "Beavercreek, OH"
-      ],
-      "season": "Summer",
-      "sponsorship": "U.S. Citizenship is Required",
-      "posted": 1793225296,
-      "lane": "verification",
-      "source": "community",
-      "keywords": [
-        "verification",
-        "verification engineer"
       ]
     },
     {
