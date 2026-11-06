@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05T19:47:19+00:00",
+  "updated_at": "2026-11-06T19:12:11+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 74,
-    "design": 52,
+    "total": 73,
+    "design": 51,
     "verification": 22
   },
   "roles": [
@@ -206,23 +206,6 @@
         "asic verification",
         "verification",
         "verification intern"
-      ]
-    },
-    {
-      "id": "05251791-37a1-41a3-9ef7-c90df944470f",
-      "company": "Altera",
-      "title": "Hardware Design Engineer Intern",
-      "url": "https://go.vansh.nyc/10W",
-      "locations": [
-        "Toronto, Canada"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1793385730,
-      "lane": "design",
-      "source": "community",
-      "keywords": [
-        "design engineer"
       ]
     },
     {
