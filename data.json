@@ -1,14 +1,32 @@
 {
-  "updated_at": "2026-11-06T19:12:11+00:00",
+  "updated_at": "2026-11-07T05:37:45+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 73,
-    "design": 51,
+    "total": 75,
+    "design": 53,
     "verification": 22
   },
   "roles": [
+    {
+      "id": "e1b67f87-4105-4ed9-8b14-5028a1912ac2",
+      "company": "Qualcomm",
+      "title": "Digital Design Engineer Intern, Interim Engineering Systems",
+      "url": "https://go.vansh.nyc/1lI",
+      "locations": [
+        "Toronto, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1794006790,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "design engineer",
+        "digital design"
+      ]
+    },
     {
       "id": "02f4e59a-2b01-4795-b089-f130201b9407",
       "company": "General Dynamics Mission Systems",
@@ -1134,6 +1152,24 @@
       "source": "community",
       "keywords": [
         "fpga"
+      ]
+    },
+    {
+      "id": "19577f5a-f9d4-4c8f-bffe-17c86e3f9383",
+      "company": "fab2",
+      "title": "Rust Software Engineering Intern, Chip Design Tools",
+      "url": "https://go.vansh.nyc/1lo",
+      "locations": [
+        "Austin, TX",
+        "San Francisco, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1788627125,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "chip design"
       ]
     },
     {
