@@ -1,14 +1,31 @@
 {
-  "updated_at": "2026-11-07T05:37:45+00:00",
+  "updated_at": "2026-11-08T05:39:46+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 75,
-    "design": 53,
+    "total": 76,
+    "design": 54,
     "verification": 22
   },
   "roles": [
+    {
+      "id": "7d0d7a53-ee53-492a-850f-2ab84b009dfb",
+      "company": "Rambus",
+      "title": "Digital Design Intern",
+      "url": "https://go.vansh.nyc/1mt",
+      "locations": [
+        "Johns Creek, GA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1794009600,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "digital design"
+      ]
+    },
     {
       "id": "e1b67f87-4105-4ed9-8b14-5028a1912ac2",
       "company": "Qualcomm",
