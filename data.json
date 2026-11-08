@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-08T05:39:46+00:00",
+  "updated_at": "2026-11-08T21:54:23+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 76,
-    "design": 54,
-    "verification": 22
+    "total": 78,
+    "design": 55,
+    "verification": 23
   },
   "roles": [
     {
@@ -473,6 +473,42 @@
       "lane": "verification",
       "source": "community",
       "keywords": [
+        "verification",
+        "verification intern"
+      ]
+    },
+    {
+      "id": "550e902d-072d-49f4-bc50-2d54c9065dc6",
+      "company": "Quadric",
+      "title": "RTL Intern",
+      "url": "https://go.vansh.nyc/1n2",
+      "locations": [
+        "Burlingame, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1792713600,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "rtl"
+      ]
+    },
+    {
+      "id": "1c072b7b-d86e-4aa3-a11f-330b91faf3f2",
+      "company": "Quadric",
+      "title": "Design Verification Intern",
+      "url": "https://go.vansh.nyc/1n5",
+      "locations": [
+        "Burlingame, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1792713600,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "design verification",
         "verification",
         "verification intern"
       ]
