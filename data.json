@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-08T21:54:23+00:00",
+  "updated_at": "2026-11-09T05:49:30+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 78,
+    "total": 79,
     "design": 55,
-    "verification": 23
+    "verification": 24
   },
   "roles": [
     {
@@ -656,6 +656,24 @@
       "keywords": [
         "digital design",
         "soc"
+      ]
+    },
+    {
+      "id": "c5a72135-7e89-421c-804f-f05a259b0adb",
+      "company": "SiTime",
+      "title": "ASIC Digital Verification Engineer Intern",
+      "url": "https://go.vansh.nyc/1nc",
+      "locations": [
+        "Ottawa, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1792112781,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "verification",
+        "verification engineer"
       ]
     },
     {
