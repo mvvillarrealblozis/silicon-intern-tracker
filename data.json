@@ -1,14 +1,33 @@
 {
-  "updated_at": "2026-11-10T01:24:20+00:00",
+  "updated_at": "2026-11-10T14:41:30+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 84,
-    "design": 58,
-    "verification": 26
+    "total": 86,
+    "design": 59,
+    "verification": 27
   },
   "roles": [
+    {
+      "id": "11054b2f-34e1-4f34-b9a7-7d3cf5671f13",
+      "company": "GlobalFoundries",
+      "title": "Design Verification Engineer Intern",
+      "url": "https://go.vansh.nyc/1qc",
+      "locations": [
+        "Plano, TX"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1794268800,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "design verification",
+        "verification",
+        "verification engineer"
+      ]
+    },
     {
       "id": "fa897076-a1e3-485a-8d34-8855791ca3d0",
       "company": "General Dynamics Mission Systems, Inc.",
@@ -873,6 +892,26 @@
       "keywords": [
         "logic design",
         "vlsi"
+      ]
+    },
+    {
+      "id": "c52017c1-7b96-4fbc-b9ec-5141684a6084",
+      "company": "Tenstorrent",
+      "title": "Hardware Intern, Architecture, AI HW & SoC",
+      "url": "https://go.vansh.nyc/1qf",
+      "locations": [
+        "Austin, TX",
+        "Boston, MA",
+        "Fort Collins, CO",
+        "Santa Clara, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1791549950,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "soc"
       ]
     },
     {
