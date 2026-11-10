@@ -1,14 +1,84 @@
 {
-  "updated_at": "2026-11-09T15:53:26+00:00",
+  "updated_at": "2026-11-10T01:24:20+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 81,
-    "design": 56,
-    "verification": 25
+    "total": 84,
+    "design": 58,
+    "verification": 26
   },
   "roles": [
+    {
+      "id": "fa897076-a1e3-485a-8d34-8855791ca3d0",
+      "company": "General Dynamics Mission Systems, Inc.",
+      "title": "FPGA Engineer Intern",
+      "url": "https://go.vansh.nyc/1pc",
+      "locations": [
+        "Scottsdale, AZ"
+      ],
+      "season": "Summer",
+      "sponsorship": "U.S. Citizenship is Required",
+      "posted": 1794258479,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "fpga"
+      ]
+    },
+    {
+      "id": "d1b9bba3-7b9e-4c0f-a567-5b2224efd6ee",
+      "company": "Altera",
+      "title": "FPGA Design Verification Intern",
+      "url": "https://go.vansh.nyc/1p3",
+      "locations": [
+        "Toronto, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1794253061,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "design verification",
+        "verification",
+        "verification intern"
+      ]
+    },
+    {
+      "id": "f90cee08-366b-4306-a755-32cbd02a1bd3",
+      "company": "CesiumAstro",
+      "title": "Electrical Engineering Intern, FPGA",
+      "url": "https://go.vansh.nyc/1ow",
+      "locations": [
+        "Melbourne, FL"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1794239453,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "fpga"
+      ]
+    },
+    {
+      "id": "f6b1b583-abcf-4495-a5a9-e1f22e7845d0",
+      "company": "RTX",
+      "title": "Digital Hardware Design Engineer Co-op",
+      "url": "https://go.vansh.nyc/1pH",
+      "locations": [
+        "Cedar Rapids, IA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1794182400,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "design engineer"
+      ]
+    },
     {
       "id": "7d0d7a53-ee53-492a-850f-2ab84b009dfb",
       "company": "Rambus",
@@ -1187,24 +1257,6 @@
       "source": "community",
       "keywords": [
         "fpga"
-      ]
-    },
-    {
-      "id": "cee3f8b4-1561-4bac-bf8f-611bfce87c7d",
-      "company": "Marvell",
-      "title": "Data Center Silicon Hardware Engineering Co-op",
-      "url": "https://go.vansh.nyc/Jt",
-      "locations": [
-        "Toronto, Canada",
-        "Ottawa, Canada"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1790208000,
-      "lane": "design",
-      "source": "community",
-      "keywords": [
-        "silicon"
       ]
     },
     {
