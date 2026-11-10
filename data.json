@@ -1,14 +1,50 @@
 {
-  "updated_at": "2026-11-10T14:41:30+00:00",
+  "updated_at": "2026-11-10T23:05:24+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
     "total": 86,
-    "design": 59,
-    "verification": 27
+    "design": 60,
+    "verification": 26
   },
   "roles": [
+    {
+      "id": "ba4f2675-ceb2-4ec5-af31-7a893bd7ed43",
+      "company": "General Dynamics Mission Systems, Inc.",
+      "title": "ASIC/FPGA Engineer Intern",
+      "url": "https://go.vansh.nyc/1rJ",
+      "locations": [
+        "Scottsdale, AZ"
+      ],
+      "season": "Summer",
+      "sponsorship": "U.S. Citizenship is Required",
+      "posted": 1794335810,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "asic",
+        "fpga"
+      ]
+    },
+    {
+      "id": "e7d65f2c-8ec5-4a65-98a0-c4c92858e5fa",
+      "company": "Ixana",
+      "title": "Embedded Hardware Engineer Intern, FPGA Design",
+      "url": "https://go.vansh.nyc/1qS",
+      "locations": [
+        "West Lafayette, IN"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1794328672,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "fpga",
+        "hardware engineer"
+      ]
+    },
     {
       "id": "11054b2f-34e1-4f34-b9a7-7d3cf5671f13",
       "company": "GlobalFoundries",
@@ -79,23 +115,6 @@
       "source": "community",
       "keywords": [
         "fpga"
-      ]
-    },
-    {
-      "id": "f6b1b583-abcf-4495-a5a9-e1f22e7845d0",
-      "company": "RTX",
-      "title": "Digital Hardware Design Engineer Co-op",
-      "url": "https://go.vansh.nyc/1pH",
-      "locations": [
-        "Cedar Rapids, IA"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1794182400,
-      "lane": "design",
-      "source": "community",
-      "keywords": [
-        "design engineer"
       ]
     },
     {
@@ -618,24 +637,6 @@
       "keywords": [
         "design engineer",
         "physical design"
-      ]
-    },
-    {
-      "id": "9835db48-92e8-44b1-af8b-d324cf16e3bf",
-      "company": "Microchip Technology",
-      "title": "Engineering Intern, ASIC Verification",
-      "url": "https://go.vansh.nyc/ed",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1792626262,
-      "lane": "verification",
-      "source": "community",
-      "keywords": [
-        "asic verification",
-        "verification"
       ]
     },
     {
