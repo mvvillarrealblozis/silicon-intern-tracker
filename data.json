@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-11T05:45:41+00:00",
+  "updated_at": "2026-11-11T13:56:52+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 85,
+    "total": 86,
     "design": 60,
-    "verification": 25
+    "verification": 26
   },
   "roles": [
     {
@@ -764,6 +764,25 @@
         "design verification",
         "verification",
         "verification intern"
+      ]
+    },
+    {
+      "id": "384ad0d2-6a67-42dd-80da-ac4a46430300",
+      "company": "Indie",
+      "title": "Design Verification Engineer Intern",
+      "url": "https://go.vansh.nyc/1td",
+      "locations": [
+        "Aliso Viejo, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1792006568,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "design verification",
+        "verification",
+        "verification engineer"
       ]
     },
     {
