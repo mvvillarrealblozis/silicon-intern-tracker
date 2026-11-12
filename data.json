@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-12T00:25:05+00:00",
+  "updated_at": "2026-11-12T14:57:56+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 79,
-    "design": 55,
-    "verification": 24
+    "total": 77,
+    "design": 54,
+    "verification": 23
   },
   "roles": [
     {
@@ -25,25 +25,6 @@
       "keywords": [
         "fpga",
         "hardware engineer"
-      ]
-    },
-    {
-      "id": "11054b2f-34e1-4f34-b9a7-7d3cf5671f13",
-      "company": "GlobalFoundries",
-      "title": "Design Verification Engineer Intern",
-      "url": "https://go.vansh.nyc/1qc",
-      "locations": [
-        "Plano, TX"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1794268800,
-      "lane": "verification",
-      "source": "community",
-      "keywords": [
-        "design verification",
-        "verification",
-        "verification engineer"
       ]
     },
     {
@@ -97,23 +78,6 @@
       "source": "community",
       "keywords": [
         "fpga"
-      ]
-    },
-    {
-      "id": "7d0d7a53-ee53-492a-850f-2ab84b009dfb",
-      "company": "Rambus",
-      "title": "Digital Design Intern",
-      "url": "https://go.vansh.nyc/1mt",
-      "locations": [
-        "Johns Creek, GA"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1794009600,
-      "lane": "design",
-      "source": "community",
-      "keywords": [
-        "digital design"
       ]
     },
     {
