@@ -1,32 +1,14 @@
 {
-  "updated_at": "2026-11-11T13:56:52+00:00",
+  "updated_at": "2026-11-12T00:25:05+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 86,
-    "design": 60,
-    "verification": 26
+    "total": 79,
+    "design": 55,
+    "verification": 24
   },
   "roles": [
-    {
-      "id": "ba4f2675-ceb2-4ec5-af31-7a893bd7ed43",
-      "company": "General Dynamics Mission Systems, Inc.",
-      "title": "ASIC/FPGA Engineer Intern",
-      "url": "https://go.vansh.nyc/1rJ",
-      "locations": [
-        "Scottsdale, AZ"
-      ],
-      "season": "Summer",
-      "sponsorship": "U.S. Citizenship is Required",
-      "posted": 1794335810,
-      "lane": "design",
-      "source": "community",
-      "keywords": [
-        "asic",
-        "fpga"
-      ]
-    },
     {
       "id": "e7d65f2c-8ec5-4a65-98a0-c4c92858e5fa",
       "company": "Ixana",
@@ -567,25 +549,6 @@
       ]
     },
     {
-      "id": "49b4a066-840d-4414-9939-01b4c31f3b29",
-      "company": "GlobalFoundries",
-      "title": "CPU IP Design & Verification Intern, RISC-V Processor Development",
-      "url": "https://go.vansh.nyc/hm",
-      "locations": [
-        "Austin, TX",
-        "Santa Clara, CA"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1792713600,
-      "lane": "verification",
-      "source": "community",
-      "keywords": [
-        "verification",
-        "verification intern"
-      ]
-    },
-    {
       "id": "550e902d-072d-49f4-bc50-2d54c9065dc6",
       "company": "Quadric",
       "title": "RTL Intern",
@@ -636,24 +599,6 @@
       "keywords": [
         "silicon validation",
         "validation"
-      ]
-    },
-    {
-      "id": "b002f7f0-d82d-4dd8-b6d6-f28e938e3324",
-      "company": "SK Hynix Memory Solution",
-      "title": "ASIC Design Intern",
-      "url": "https://go.vansh.nyc/gp",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1792454400,
-      "lane": "design",
-      "source": "community",
-      "keywords": [
-        "asic",
-        "asic design"
       ]
     },
     {
@@ -1371,53 +1316,6 @@
       ]
     },
     {
-      "id": "472cfc91-92b9-45ed-b9ac-f1fcde81a1e7",
-      "company": "Marvell",
-      "title": "Design Verification Intern",
-      "url": "https://go.vansh.nyc/Me",
-      "locations": [
-        "Morrisville, NC",
-        "Austin, TX",
-        "Santa Clara, CA",
-        "Boise, ID",
-        "Westborough, MA"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1788480000,
-      "lane": "verification",
-      "source": "community",
-      "keywords": [
-        "design verification",
-        "verification",
-        "verification intern"
-      ]
-    },
-    {
-      "id": "1b326f44-6f5e-4a09-9566-709a8ea6c54c",
-      "company": "Marvell",
-      "title": "Physical Design Engineer Intern",
-      "url": "https://go.vansh.nyc/Mf",
-      "locations": [
-        "Morrisville, NC",
-        "Austin, TX",
-        "Rochester, MN",
-        "Santa Clara, CA",
-        "Boise, ID",
-        "Burlington, VT",
-        "Westborough, MA"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1788480000,
-      "lane": "design",
-      "source": "community",
-      "keywords": [
-        "design engineer",
-        "physical design"
-      ]
-    },
-    {
       "id": "25da5e92-f417-4345-887e-e9f80064d8df",
       "company": "AMD",
       "title": "ASIC Verification Engineer Co-op",
@@ -1469,40 +1367,6 @@
       "source": "community",
       "keywords": [
         "silicon"
-      ]
-    },
-    {
-      "id": "7324a781-3aa6-4c7b-9b7a-e7013684f814",
-      "company": "AMD",
-      "title": "Hardware Design Engineer Co-op",
-      "url": "https://go.vansh.nyc/LN",
-      "locations": [
-        "Markham, Canada"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1788256547,
-      "lane": "design",
-      "source": "community",
-      "keywords": [
-        "design engineer"
-      ]
-    },
-    {
-      "id": "efb7c2a0-e3b3-45fe-91f3-608cf5d9daa8",
-      "company": "AMD",
-      "title": "Hardware Design Engineer Co-op",
-      "url": "https://go.vansh.nyc/LI",
-      "locations": [
-        "Vancouver, Canada"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1788256546,
-      "lane": "design",
-      "source": "community",
-      "keywords": [
-        "design engineer"
       ]
     },
     {
