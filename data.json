@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-12T14:57:56+00:00",
+  "updated_at": "2026-11-12T23:26:47+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 77,
+    "total": 76,
     "design": 54,
-    "verification": 23
+    "verification": 22
   },
   "roles": [
     {
@@ -1277,25 +1277,6 @@
       "source": "community",
       "keywords": [
         "chip design"
-      ]
-    },
-    {
-      "id": "25da5e92-f417-4345-887e-e9f80064d8df",
-      "company": "AMD",
-      "title": "ASIC Verification Engineer Co-op",
-      "url": "https://go.vansh.nyc/M6",
-      "locations": [
-        "Ottawa, Canada"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1788401829,
-      "lane": "verification",
-      "source": "community",
-      "keywords": [
-        "asic verification",
-        "verification",
-        "verification engineer"
       ]
     },
     {
