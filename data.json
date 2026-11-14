@@ -1,14 +1,31 @@
 {
-  "updated_at": "2026-11-12T23:26:47+00:00",
+  "updated_at": "2026-11-14T05:55:47+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 76,
-    "design": 54,
+    "total": 75,
+    "design": 53,
     "verification": 22
   },
   "roles": [
+    {
+      "id": "93b2df62-9b06-40a9-9912-0b6b1e1082e2",
+      "company": "Reliable Robotics Corporation",
+      "title": "FPGA Engineering Intern",
+      "url": "https://go.vansh.nyc/1za",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1794528000,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "fpga"
+      ]
+    },
     {
       "id": "e7d65f2c-8ec5-4a65-98a0-c4c92858e5fa",
       "company": "Ixana",
@@ -597,23 +614,6 @@
       "source": "community",
       "keywords": [
         "physical design"
-      ]
-    },
-    {
-      "id": "361b727c-5a4b-4bf9-aad9-684964966e1e",
-      "company": "Celestica",
-      "title": "Software & Hardware Engineer Intern",
-      "url": "https://go.vansh.nyc/R2",
-      "locations": [
-        "Austin, TX"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1792339604,
-      "lane": "design",
-      "source": "community",
-      "keywords": [
-        "hardware engineer"
       ]
     },
     {
@@ -1277,24 +1277,6 @@
       "source": "community",
       "keywords": [
         "chip design"
-      ]
-    },
-    {
-      "id": "836a1066-b390-4e7d-b16a-1fae9a49c0cf",
-      "company": "Hewlett Packard Enterprise",
-      "title": "ASIC Firmware and Diagnostic Intern",
-      "url": "https://go.vansh.nyc/M3",
-      "locations": [
-        "Bloomington, MN",
-        "Chippewa Falls, WI"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1788393600,
-      "lane": "design",
-      "source": "community",
-      "keywords": [
-        "asic"
       ]
     },
     {
