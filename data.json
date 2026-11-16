@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14T05:55:47+00:00",
+  "updated_at": "2026-11-16T15:32:51+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 75,
-    "design": 53,
+    "total": 74,
+    "design": 52,
     "verification": 22
   },
   "roles": [
@@ -856,23 +856,6 @@
       "source": "community",
       "keywords": [
         "asic"
-      ]
-    },
-    {
-      "id": "31ce1756-03e6-4642-a004-2ac718c5ae06",
-      "company": "Garmin",
-      "title": "FPGA Engineer Intern",
-      "url": "https://go.vansh.nyc/FV",
-      "locations": [
-        "Olathe, KS"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1791410856,
-      "lane": "design",
-      "source": "community",
-      "keywords": [
-        "fpga"
       ]
     },
     {
