@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-17T01:48:09+00:00",
+  "updated_at": "2026-11-17T15:49:03+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 74,
+    "total": 73,
     "design": 52,
-    "verification": 22
+    "verification": 21
   },
   "roles": [
     {
@@ -492,24 +492,6 @@
       "source": "community",
       "keywords": [
         "fpga"
-      ]
-    },
-    {
-      "id": "2159f079-5e4e-4ab1-aa65-6d49af0aff31",
-      "company": "Texas Instruments",
-      "title": "Digital Design Verification Engineering Intern",
-      "url": "https://go.vansh.nyc/hS",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "season": "Summer",
-      "sponsorship": "Does Not Offer Sponsorship",
-      "posted": 1792726089,
-      "lane": "verification",
-      "source": "community",
-      "keywords": [
-        "design verification",
-        "verification"
       ]
     },
     {
