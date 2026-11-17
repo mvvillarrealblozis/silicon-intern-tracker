@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T15:32:51+00:00",
+  "updated_at": "2026-11-17T01:48:09+00:00",
   "seasons": [
     "Summer"
   ],
@@ -9,6 +9,25 @@
     "verification": 22
   },
   "roles": [
+    {
+      "id": "f41d8dd6-cac2-4952-9aa7-aae48195d306",
+      "company": "Impulse Space",
+      "title": "Digital Design Engineering Intern, FPGA/ASIC",
+      "url": "https://go.vansh.nyc/1Ay",
+      "locations": [
+        "Redondo Beach, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1794851349,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "asic",
+        "digital design",
+        "fpga"
+      ]
+    },
     {
       "id": "93b2df62-9b06-40a9-9912-0b6b1e1082e2",
       "company": "Reliable Robotics Corporation",
@@ -818,23 +837,6 @@
       "season": "Summer",
       "sponsorship": "Other",
       "posted": 1791549950,
-      "lane": "design",
-      "source": "community",
-      "keywords": [
-        "soc"
-      ]
-    },
-    {
-      "id": "717a879a-6aa8-45e5-ae92-e5ed10e29e8d",
-      "company": "Sentinel Technologies",
-      "title": "SOC Intern",
-      "url": "https://go.vansh.nyc/Hg",
-      "locations": [
-        "Downers Grove, IL"
-      ],
-      "season": "Summer",
-      "sponsorship": "Does Not Offer Sponsorship",
-      "posted": 1791518400,
       "lane": "design",
       "source": "community",
       "keywords": [
