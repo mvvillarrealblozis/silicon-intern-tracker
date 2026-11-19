@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-17T15:49:03+00:00",
+  "updated_at": "2026-11-19T15:34:48+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 73,
-    "design": 52,
+    "total": 72,
+    "design": 51,
     "verification": 21
   },
   "roles": [
@@ -331,23 +331,6 @@
         "asic verification",
         "verification",
         "verification intern"
-      ]
-    },
-    {
-      "id": "d1823cbf-0c3d-4f43-af0c-9c91b87174d9",
-      "company": "Altera",
-      "title": "FPGA Development Tools Intern",
-      "url": "https://go.vansh.nyc/10V",
-      "locations": [
-        "Toronto, Canada"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1793385719,
-      "lane": "design",
-      "source": "community",
-      "keywords": [
-        "fpga"
       ]
     },
     {
