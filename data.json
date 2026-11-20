@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T00:30:36+00:00",
+  "updated_at": "2026-11-20T15:13:39+00:00",
   "seasons": [
     "Summer"
   ],
@@ -9,6 +9,23 @@
     "verification": 21
   },
   "roles": [
+    {
+      "id": "7f971ab1-5c85-41fb-84e6-5e9a5483cd7e",
+      "company": "Altera",
+      "title": "FPGA Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1Et",
+      "locations": [
+        "Toronto, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1795133515,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "fpga"
+      ]
+    },
     {
       "id": "f41d8dd6-cac2-4952-9aa7-aae48195d306",
       "company": "Impulse Space",
@@ -331,23 +348,6 @@
         "asic verification",
         "verification",
         "verification intern"
-      ]
-    },
-    {
-      "id": "c05faa87-289b-4adf-a908-5075cdc4f44f",
-      "company": "L3Harris Technologies",
-      "title": "FPGA Software Tool Developer Co-op",
-      "url": "https://go.vansh.nyc/10n",
-      "locations": [
-        "Waterdown, Canada"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1793329555,
-      "lane": "design",
-      "source": "community",
-      "keywords": [
-        "fpga"
       ]
     },
     {
