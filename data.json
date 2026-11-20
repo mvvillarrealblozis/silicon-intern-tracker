@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-20T15:13:39+00:00",
+  "updated_at": "2026-11-20T23:53:43+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 70,
+    "total": 71,
     "design": 49,
-    "verification": 21
+    "verification": 22
   },
   "roles": [
     {
@@ -24,6 +24,25 @@
       "source": "community",
       "keywords": [
         "fpga"
+      ]
+    },
+    {
+      "id": "a04c9300-7c6d-40f9-b5a4-c9314199f57f",
+      "company": "Microchip Technology",
+      "title": "ASIC Verification Engineer Intern",
+      "url": "https://go.vansh.nyc/1F9",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1795132800,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "asic verification",
+        "verification",
+        "verification engineer"
       ]
     },
     {
