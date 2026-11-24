@@ -1,14 +1,54 @@
 {
-  "updated_at": "2026-11-20T23:53:43+00:00",
+  "updated_at": "2026-11-24T22:14:28+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 71,
+    "total": 73,
     "design": 49,
-    "verification": 22
+    "verification": 24
   },
   "roles": [
+    {
+      "id": "fe745cad-8c87-4041-90ad-180b53536eaa",
+      "company": "General Motors",
+      "title": "Software Verification Engineer Intern, AV/AI Platform",
+      "url": "https://go.vansh.nyc/1Ir",
+      "locations": [
+        "Warren, MI"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1795541975,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "verification",
+        "verification engineer"
+      ]
+    },
+    {
+      "id": "70a980ed-1565-4a2a-9a91-408f7d9842d6",
+      "company": "Intel",
+      "title": "Design Verification Intern",
+      "url": "https://go.vansh.nyc/1Ie",
+      "locations": [
+        "Fort Collins, CO",
+        "Hillsboro, OR",
+        "Santa Clara, CA",
+        "Austin, TX"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1795536191,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "design verification",
+        "verification",
+        "verification intern"
+      ]
+    },
     {
       "id": "7f971ab1-5c85-41fb-84e6-5e9a5483cd7e",
       "company": "Altera",
