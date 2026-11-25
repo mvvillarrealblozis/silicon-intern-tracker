@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-25T08:01:27+00:00",
+  "updated_at": "2026-11-25T21:29:55+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 71,
-    "design": 48,
+    "total": 70,
+    "design": 47,
     "verification": 23
   },
   "roles": [
@@ -137,23 +137,6 @@
       "keywords": [
         "fpga",
         "hardware engineer"
-      ]
-    },
-    {
-      "id": "fa897076-a1e3-485a-8d34-8855791ca3d0",
-      "company": "General Dynamics Mission Systems, Inc.",
-      "title": "FPGA Engineer Intern",
-      "url": "https://go.vansh.nyc/1pc",
-      "locations": [
-        "Scottsdale, AZ"
-      ],
-      "season": "Summer",
-      "sponsorship": "U.S. Citizenship is Required",
-      "posted": 1794258479,
-      "lane": "design",
-      "source": "community",
-      "keywords": [
-        "fpga"
       ]
     },
     {
