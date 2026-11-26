@@ -1,14 +1,31 @@
 {
-  "updated_at": "2026-11-26T07:53:10+00:00",
+  "updated_at": "2026-11-26T21:17:36+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
     "total": 73,
-    "design": 48,
-    "verification": 25
+    "design": 49,
+    "verification": 24
   },
   "roles": [
+    {
+      "id": "ed1b308c-1b30-4565-9c7a-d0b16aa1127e",
+      "company": "Lockheed Martin",
+      "title": "FPGA Engineer Intern, Security Focus",
+      "url": "https://go.vansh.nyc/1Ke",
+      "locations": [
+        "Owego, NY"
+      ],
+      "season": "Summer",
+      "sponsorship": "U.S. Citizenship is Required",
+      "posted": 1795630154,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "fpga"
+      ]
+    },
     {
       "id": "675dd07f-a8a0-4626-a9d4-7bf39c8f426b",
       "company": "SambaNova",
@@ -83,28 +100,6 @@
       "keywords": [
         "verification",
         "verification engineer"
-      ]
-    },
-    {
-      "id": "70a980ed-1565-4a2a-9a91-408f7d9842d6",
-      "company": "Intel",
-      "title": "Design Verification Intern",
-      "url": "https://go.vansh.nyc/1Ie",
-      "locations": [
-        "Fort Collins, CO",
-        "Hillsboro, OR",
-        "Santa Clara, CA",
-        "Austin, TX"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "posted": 1795536191,
-      "lane": "verification",
-      "source": "community",
-      "keywords": [
-        "design verification",
-        "verification",
-        "verification intern"
       ]
     },
     {
