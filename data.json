@@ -1,14 +1,72 @@
 {
-  "updated_at": "2026-11-25T21:29:55+00:00",
+  "updated_at": "2026-11-26T07:53:10+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 70,
-    "design": 47,
-    "verification": 23
+    "total": 73,
+    "design": 48,
+    "verification": 25
   },
   "roles": [
+    {
+      "id": "675dd07f-a8a0-4626-a9d4-7bf39c8f426b",
+      "company": "SambaNova",
+      "title": "DFT Engineer Intern",
+      "url": "https://go.vansh.nyc/1JL",
+      "locations": [
+        "Austin, TX",
+        "San Jose, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1795628752,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "dft"
+      ]
+    },
+    {
+      "id": "22765ecb-60b9-4842-a96b-a2b66bdd5e5c",
+      "company": "SambaNova",
+      "title": "Physical Design Engineer Intern",
+      "url": "https://go.vansh.nyc/1JK",
+      "locations": [
+        "Austin, TX",
+        "San Jose, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1795628400,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "design engineer",
+        "physical design"
+      ]
+    },
+    {
+      "id": "d25fbc7f-3259-44cd-b596-10127d917a1e",
+      "company": "SambaNova",
+      "title": "Post-Silicon Validation Engineer Intern",
+      "url": "https://go.vansh.nyc/1JJ",
+      "locations": [
+        "Austin, TX",
+        "San Jose, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1795625368,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "post-silicon",
+        "silicon validation",
+        "validation",
+        "validation engineer"
+      ]
+    },
     {
       "id": "fe745cad-8c87-4041-90ad-180b53536eaa",
       "company": "General Motors",
