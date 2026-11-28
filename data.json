@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-27T07:54:01+00:00",
+  "updated_at": "2026-11-28T07:23:23+00:00",
   "seasons": [
     "Summer"
   ],
   "counts": {
-    "total": 73,
-    "design": 50,
-    "verification": 23
+    "total": 75,
+    "design": 51,
+    "verification": 24
   },
   "roles": [
     {
@@ -120,6 +120,28 @@
       ]
     },
     {
+      "id": "d19bb466-58e4-42a2-bbed-6d2c1a12ce53",
+      "company": "Intel",
+      "title": "Design Verification Engineer Intern",
+      "url": "https://go.vansh.nyc/1M3",
+      "locations": [
+        "Austin, TX",
+        "Santa Clara, CA",
+        "Hillsboro, OR",
+        "Fort Collins, CO"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1795478400,
+      "lane": "verification",
+      "source": "community",
+      "keywords": [
+        "design verification",
+        "verification",
+        "verification engineer"
+      ]
+    },
+    {
       "id": "7f971ab1-5c85-41fb-84e6-5e9a5483cd7e",
       "company": "Altera",
       "title": "FPGA Software Engineer Intern",
@@ -153,6 +175,24 @@
         "asic verification",
         "verification",
         "verification engineer"
+      ]
+    },
+    {
+      "id": "7ac4b421-d3f4-42bf-b7ba-986313d476c8",
+      "company": "Analog Devices",
+      "title": "Digital Design Engineer Intern",
+      "url": "https://go.vansh.nyc/1LT",
+      "locations": [
+        "Austin, TX"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "posted": 1794960000,
+      "lane": "design",
+      "source": "community",
+      "keywords": [
+        "design engineer",
+        "digital design"
       ]
     },
     {
